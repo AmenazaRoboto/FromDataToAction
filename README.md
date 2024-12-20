@@ -7,7 +7,7 @@ The same analysis that we performed in this guide for Ciudad del Plata could eas
 Warning
 This guide is designed to help you understand and use some basic functions of Geographic Information System (GIS) software. The example case presented is for instructional purposes only. The final results obtained from this guide should be considered as an approximation to the topic of study and not as definitive or corroborated conclusions. To properly interpret the results and apply the knowledge effectively, it is highly recommended to involve subject matter experts. We emphasize the importance of this recommendation to ensure rigorous and accurate analysis.
 
-
+---
 De la Sequía a la Inundación: Guía Paso a Paso
 
 Este proyecto fue realizado gracias al Impact Seed Fund (ISF), una iniciativa del Pulitzer Center.
